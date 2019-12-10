@@ -5,7 +5,7 @@ array.include? ("Tardis")
 end
 
 def using_sort(array)
-array = ["I","wow","wow","wow","wow"]
+array = ["wow","I","am","learning","arrays!"]
 array.sort
 end
 
